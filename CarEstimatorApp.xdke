@@ -1,0 +1,15 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.2",
+    "initialAutoPluginCount": 0,
+    "projectFiles": {},
+    "projectDirectories": {},
+    "currentService": {
+      "methodapi": "",
+      "endPoint": "",
+      "service": "",
+      "category": ""
+    },
+    "currentBuildConfiguration": "Android"
+  }
+}
